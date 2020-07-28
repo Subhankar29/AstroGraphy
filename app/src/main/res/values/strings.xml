@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JunoAstroGraphy</string>
+    <string name="not_connected_internet">Please connect to the Internet</string>
+    <string name="error_message">Error loading the data. Please try again later</string>
+    <string name="title_message">Waiting for Title</string>
+    <string name="description_message">Waiting for Description</string>
+    <string name="error_text">An error has occured while loading the data</string>
+    <string name="developer_name">Developed by Subhankar Shah</string>
+    <string name="loading">Loading...</string>
+</resources>
